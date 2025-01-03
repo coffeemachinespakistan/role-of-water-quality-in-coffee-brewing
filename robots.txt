@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coffeemachinespakistan.github.io/role-of-water-quality-in-coffee-brewing/sitemap.xml
